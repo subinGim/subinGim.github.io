@@ -3,6 +3,9 @@ _site/
 .jekyll-metadata
 2020-08-31-BOJ-양식.md
 # 미완성 포스팅ㅜ
-2020-05-20-Vue.js-post-2.md
-2020-05-29-Vue.js-post-3.md
-2020-06-11-Vue.js-post-4.md
+_posts/2020-05-20-Vue.js-post-2.md
+_posts/2020-05-20-Vue.js-post-2.md
+_posts/2020-05-29-Vue.js-post-3.md
+_posts/2020-06-11-Vue.js-post-4.md
+
+_posts/2020-09-01-git-use.md
