@@ -1,0 +1,120 @@
+[33mc679259[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m setting modify
+[33m7ab13b0[m[33m ([m[1;31morigin/master[m[33m)[m Apply .gitignore
+[33m938a3cb[m ignore update
+[33m1614e4d[m 1904 제목 수정
+[33mf1878ae[m dynamic solve
+[33mcf010b3[m url 수정
+[33m9b038aa[m 검색등록2
+[33md9f025b[m 검색엔진 추가중1
+[33m8b85266[m sitemap commit
+[33m17e1d40[m ignore수정
+[33m1c68212[m 오탈자 수정
+[33mbacb4e6[m dynamic post update
+[33m6c53f80[m 0828 boj 풀이 포스팅
+[33m726f3ed[m delete
+[33m74bb86c[m google search
+[33mb3f418a[m 그리디 문제 포스팅
+[33m1760a9a[m 백트래킹 관련 문제
+[33m1600c03[m 정렬관련 백준문제 포스팅
+[33m4c699a5[m counting sort posting
+[33m8cb0946[m 오타 수정
+[33m723c849[m 병합정렬 관련 포스팅
+[33mc31cba4[m 포스팅 링크 수정
+[33m01db57e[m 정렬 포스팅
+[33mf2d9e7e[m 선택정렬 알고리즘 포스팅
+[33m0760b0f[m 문자 오류 수정
+[33m4d97786[m 포스팅 수정
+[33m5d4c1e0[m boj 1018 solution
+[33mf9ae13b[m vue 포스트 '수정중' 문구 추가
+[33m47373c4[m disqus 계정설정
+[33md65a94f[m 포스팅 수정
+[33m8575d38[m 포스팅 이름 수정
+[33m7465660[m boj_1436 posting
+[33mad58e9d[m 블로그 대문짝 수정
+[33m8eeb871[m python posting_init
+[33mbb6e936[m add docs link
+[33m004785d[m vue posting1 upload
+[33m70d04ca[m 이미지 수정2
+[33mcebd37a[m 이미지 태그 수정
+[33m7b31fdc[m node posting3 설명 수정
+[33m6486c40[m 띄어쓰기 수정
+[33m4570a92[m node posting 추가
+[33m524bb11[m node posting2 줄바꿈수정
+[33m504aed0[m node posting2
+[33m46aafbd[m test2
+[33ma63a3e6[m test
+[33m37bc3fd[m 줄바꿈 수정
+[33m16ab4be[m post_node 수정
+[33maa128c8[m Create 2020-04-24-Interactive-web.md
+[33mcb940a3[m Create 2020-04-22-JS-study-post.md
+[33mdcd19a1[m Update 2020-04-16-어울림-포스트.md
+[33mf35eb62[m Create 2020-04-15-test-post.md
+[33me26bea9[m Update 2020-04-16-어울림-포스트.md
+[33m3f14d1a[m Update 2020-04-16-어울림-포스트.md
+[33m7b847af[m Update 2020-04-16-어울림-포스트.md
+[33m0a4707b[m Update 2020-04-16-어울림-포스트.md
+[33m7f69583[m init commit
+[33m4250057[m Update README.md
+[33m8f8fabf[m Update _config.yml
+[33m1f4d70e[m Merge pull request #89 from lrdodge/feature/youtube-channel-link
+[33me0986a0[m Fix config reference
+[33m8a88cff[m Add YouTube channel to navigation
+[33m2e8fa7e[m Add YouTube channel social link
+[33mcd451e3[m fix for github button
+[33md627355[m Merge pull request #82 from tanto259/fontassets
+[33m1036456[m Merge pull request #76 from rgeraldporter/master
+[33m6466c8a[m Merge pull request #75 from tanto259/master
+[33m99bc22b[m Merge pull request #66 from TannerBaldus/upgrade_jekyll
+[33m68d6d19[m Merge pull request #63 from libeclipse/patch-1
+[33m52a0a85[m Fix Italic Fira Sans Font
+[33m681a7c2[m Update _config.yml
+[33m995c61b[m Adds Medium
+[33mf45bbbc[m Adds Medium as an option
+[33m9a60444[m Update to Font Awesome 4.7.0
+[33m99049c0[m Update Font Awesome to 4.6.3
+[33mf56a33a[m Update README.md
+[33m0c88bfc[m Make Jekyll Version ~> 3.2.1
+[33mf914eec[m Update meta.html
+[33mc9b04de[m Better rounding for reading time
+[33mc170e12[m Update Fira Fonts
+[33m60889e5[m Update README.md
+[33m29e9b29[m Update README.md
+[33m05c766d[m disable disqus script for homepage
+[33m81c8e9c[m fix text alignment
+[33med6bfb5[m add gitignore
+[33m5ea371d[m fix google analytics
+[33m4adf968[m Delete da
+[33m250b905[m Fixed and tiled background images
+[33m83213f6[m add bg-repeat = norepeat and bg-size = cover (#17)
+[33mf68a5ff[m Added HackerNews social link (#15)
+[33ma045934[m Merge pull request #13 from libeclipse/master
+[33maa29ba5[m Added patch to fix tabnabbing vulnerability.
+[33m58fc8f9[m Merge pull request #10 from libeclipse/master
+[33m54043c8[m Added XMPP to social links.
+[33m2fe04ff[m bigger logo for og graph
+[33m7955443[m Update post.html
+[33m579ada7[m Update project.html
+[33mefa739a[m Update project.html
+[33m522e632[m Update page.html
+[33m5f21fd4[m Update nav.html
+[33m3e7f7d3[m Update social-links.html
+[33m49afa36[m Update _config.yml
+[33md4d8e7c[m Merge pull request #3 from libeclipse/patch-1
+[33m1715960[m Add link to about page
+[33m17833c2[m Print style
+[33m6956b24[m Print style
+[33mbee3a3a[m Print style
+[33mb2a2e7d[m Update elements.scss
+[33mde591ea[m kbd was so big
+[33mc63d477[m Update elements.scss
+[33mb372a7c[m Update index.md
+[33mf8f68bc[m Update index.md
+[33m203305c[m Update index.md
+[33mf31d899[m Update 2016-03-21-moon-theme.md
+[33m70dac78[m Update _config.yml
+[33mb7908e0[m Update index.md
+[33m9037bfa[m Update 2016-03-21-moon-theme.md
+[33m7b247c3[m Update README.md
+[33mc3c5730[m Update 2016-03-21-moon-theme.md
+[33ma6bf643[m Update 2016-03-21-moon-theme.md
+[33m6bc1b98[m Initial Commit
